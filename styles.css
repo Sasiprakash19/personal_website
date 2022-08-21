@@ -145,6 +145,12 @@ a:hover{
     .webImage,.javaImage{
         width:30%;
     }
+    .profilePara{
+        width:80%;
+    }
+    h1{
+        font-size: 3rem;
+    }
 }
 
 
